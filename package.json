@@ -1,0 +1,23 @@
+{
+  "name": "sample-webhook",
+  "version": "1.0.0",
+  "description": "Sample test webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep0306/apiai-webhook-sample-master.git"
+  },
+  "author": "Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep0306/apiai-webhook-sample-master/issues"
+  },
+  "homepage": "https://github.com/pradeep0306/apiai-webhook-sample-master#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
